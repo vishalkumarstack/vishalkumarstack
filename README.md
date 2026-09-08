@@ -1,4 +1,24 @@
+## 💸 Support My Work 🤝	
 
+If you’ve found my content helpful — tutorials, code, or videos — and want to say **thanks**, here are a few ways to support 💖:
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/alamimran613/)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imranalam)
+[![Donate via UPI](https://img.shields.io/badge/Donate-UPI-4CAF50?style=for-the-badge&logo=googlepay&logoColor=white)](https://github.com/alamimran613/Donations/blob/main/README.md)
+
+# 💫 Hi 👋, I'm Vishal Kumar
+**A passionate software Engineer || Developer Engineer || Kafka Admin from India**
+
+Email Me 👉 ✉️ **vishalkumar200615@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently 1st year cse ai/ml student.
+- 🌱 **I’m currently learning:** c/c++/java
+- 👯 **I’m looking to collaborate on:** currently no project
+- 🤔 **I’m looking for help with:** --
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** vishalkumar200615@gmail.com
+- 😄 **Pronouns:** Vishal Kumar
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vishalkumarstack) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishalking1_2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalkumar200615@gmail.com) 
 <!-- Snake Game Repo View -->
