@@ -1,8 +1,3 @@
-## 💸 Support My Work 🤝	
-
-If you’ve found my content helpful — tutorials, code, or videos — and want to say **thanks**, here are a few ways to support 💖:
-[![Donate via PayPal]
-[![Donate via UPI]
 # 💫 Hi 👋, I'm Vishal Kumar
 **A passionate software Engineer || Developer Engineer || Kafka Admin from India**
 
